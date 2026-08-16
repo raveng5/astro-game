@@ -1,1 +1,2 @@
 # astro-game
+bad game :)
